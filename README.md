@@ -1,3 +1,3 @@
 # Demos
 
-Just learing for git
+Just learning for git
